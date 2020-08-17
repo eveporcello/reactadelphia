@@ -8,6 +8,7 @@
 - [Voting App](http://vote.moonhighway.com)
 - [Voting App Repo](https://github.com/moonhighway/host-election)
 - [Demo Code - Complete](https://github.com/eveporcello/vote-activity/tree/complete)
+- [Example Client with Apollo Client 3](https://github.com/graphqlworkshop/snowtooth-ui/blob/complete/src/index.js)
 
 ## Presenter Info
 
